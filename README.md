@@ -1,13 +1,13 @@
-# Tableau-Data-Analysis-
+# Data Analysis with Looker
+
 ## Overview
 
-This project showcases data analysis using Tableau, a powerful data visualization and business intelligence tool. Tableau allows users to connect to various data sources, create interactive dashboards, and gain insights through visual analytics.
+This project demonstrates data analysis using Looker, a modern business intelligence and data exploration platform. Looker allows users to connect to various data sources, create interactive dashboards, and perform exploratory data analysis.
 
 ## Features
 
-- **Data Connection:** Connect to a variety of data sources, including databases, spreadsheets, and cloud services.
-- **Visualization:** Create compelling visualizations such as charts, graphs, and maps.
-- **Dashboards:** Build interactive dashboards to convey insights effectively.
-- **Data Exploration:** Analyze and explore data through filtering, grouping, and calculated fields.
-
-  
+- **Data Connection:** Connect seamlessly to multiple data sources, databases, and warehouses.
+- **Exploratory Analysis:** Perform ad-hoc analysis and explore data with ease.
+- **Dashboards:** Build interactive dashboards with a wide array of visualization options.
+- **Data Modeling:** Create custom data models to derive insights from complex datasets.
+- **Collaboration:** Share and collaborate on data and dashboards with team members.
